@@ -12,4 +12,4 @@ app.use(async function(ctx) {
   }
 })
 
-server.listen(6001)
+server.listen(7860)
